@@ -1,3 +1,3 @@
 # Parcae
 
-An AI-based crytpocurrency algorithm, optimized for predicting future prices of given assets.
+An AI-based cryptocurrency algorithm, optimized for predicting future prices of given assets.
